@@ -13,6 +13,7 @@ iv.Visualization: Created scatter plots, cluster heatmaps, and elbow method char
 
 v.Actionable Insights: Identified high-value customer groups for targeted marketing.<br>
 
+
 About the Dataset:-
 
 Total Rows: 200
