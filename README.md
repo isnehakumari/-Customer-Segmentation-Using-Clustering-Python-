@@ -1,7 +1,7 @@
 # -Customer-Segmentation-Using-Clustering-Python-
 This project focuses on segmenting customers into distinct groups based on purchasing behavior using unsupervised machine learning. By applying K-Means clustering and exploratory data analysis (EDA), businesses can better understand customer needs and tailor marketing strategies.
 
-Key Features
+Key Features<br>
 i.Data Preprocessing: Handled missing values, normalized features, and prepared data for clustering.<br>
 
 ii.Exploratory Data Analysis: Analyzed customer spending patterns, purchase frequency, and demographics.<br>
